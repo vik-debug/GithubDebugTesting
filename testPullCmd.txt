@@ -1,1 +1,9 @@
 test pull comand remote repo to local repo
+.
+.
+.
+.
+.
+.
+.
+test pull command local repo to remote repo
